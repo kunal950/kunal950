@@ -21,5 +21,5 @@ I am a Software Developer passionate about building scalable applications and ma
 
 
 ### How to reach me:
-- **LinkedIn:** [nkedin.com/in/kunal-agarwal-7aa3b4274/]
+- [**LinkedIn**](https://www.linkedin.com/in/kunal-agarwal-7aa3b4274/)
 ---
