@@ -12,7 +12,6 @@ I am a Software Developer passionate about building scalable applications and ma
 ### Projects & Learning
 - **System Design:** Currently following a structured roadmap to master Low-Level Design patterns.
 - **Web Development:** Building and debugging robust applications using Rails.
-- **Personal Project:** Currently learning about Socket to build my own Redis.
 - **Competitive Programming:** Optimizing C++ workflows for efficient problem-solving.
 
 ### My Coding Stats
